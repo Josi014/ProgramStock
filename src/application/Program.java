@@ -20,7 +20,6 @@ public class Program {
 		System.out.println("updated name: " + product.getName());
 		product.setPrice(1200.00);
 		System.out.println("updated price: " + product.getPrice());
-		System.out.println("Quantity: " + product.getQuantity());
 		
 		System.out.println();
 		System.out.println("Product data: " + product);
